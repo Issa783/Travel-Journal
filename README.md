@@ -1,5 +1,7 @@
 # My Travelling Journal
 This is a simple static webpage that shows some of the fancy places of the world i would like to visit.
+
+You can access the live version of the Readme file by clicking this link: https://github.com/Issa783/Travel-Journal/blob/master/README.md
 ## Tools
 The website is developed using;
 - HTML5
